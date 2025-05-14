@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.emirhanetem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.emirhanetem" height="30" width="40" /></a>
+<a href="https://dev.to/emirhan_etemalkan_423f8c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.emirhanetem" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@emirhan_etem_alkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@emirhan_etem_alkan" height="30" width="40" /></a>
 </p>
 
