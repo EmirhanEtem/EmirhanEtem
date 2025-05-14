@@ -28,9 +28,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/emirhanetem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/emirhanetem" /></a></p><br><br>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emirhanetem&show_icons=true&theme=tokyonight&title_color=9054b0&text_color=b0b0b0&locale=en" alt="emirhanetem" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emirhanetem&" alt="emirhanetem" /></p>
