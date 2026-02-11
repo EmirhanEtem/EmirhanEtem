@@ -76,3 +76,4 @@ Jetpack Compose-based Android application built with modern architecture princip
 ---
 
 > Build systems. Break limits. Optimize relentlessly.
+![snake_gif](https://github.com/Iechnologytie11/YOUR_USERNAME/blob/output/github-snake-dark.syg)
