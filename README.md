@@ -74,7 +74,7 @@ Jetpack Compose Android application with modern architecture.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EmirhanEtem&show_icons=true&theme=tokyonight"/>
+  ![Emirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmirhanEtem&show_icons=true&theme=radical)
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhanEtem&layout=compact&theme=tokyonight"/>
 </p>
 
@@ -92,7 +92,7 @@ Jetpack Compose Android application with modern architecture.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- 💼 MyWebsite: https://emirhanetem.com.tr/  
 - 🧑‍💻 GitHub: https://github.com/EmirhanEtem  
 
 ---
