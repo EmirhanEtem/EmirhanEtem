@@ -19,7 +19,7 @@ Computer Science student building scalable systems, intelligent applications, an
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![Languages](https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs,sql)
+![Languages](https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs,sql,cpp)
 
 ### ⚙️ Backend & Systems
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,postgres,docker)
