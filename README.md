@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=EmirhanEtem&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -74,8 +74,8 @@ Jetpack Compose Android application with modern architecture.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EmirhanEtem&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhanEtem&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -93,7 +93,7 @@ Jetpack Compose Android application with modern architecture.
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME  
+- 🧑‍💻 GitHub: https://github.com/EmirhanEtem  
 
 ---
 
