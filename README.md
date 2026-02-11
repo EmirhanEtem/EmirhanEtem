@@ -19,7 +19,7 @@ Computer Science student building scalable systems, intelligent applications, an
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![Languages](https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs,mysql,cpp,qt,react,wordpress,postgres,opencv,electron,bots,arduino)
+![Languages](https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs,mysql,cpp,qt,react,wordpress,postgres,opencv,electron,bots,androidstudio,arduino)
 
 ### ⚙️ Backend & Systems
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,postgres,docker)
@@ -70,8 +70,8 @@ Jetpack Compose-based Android application built with modern architecture princip
 
 ## 📫 Connect With Me
 
-- 💼 MyWebsite: https://emirhanetem.com.tr
-- 🧑‍💻 GitHub: https://github.com/EmirhanEtem  
+- 💼 [MyWebsite](https://emirhanetem.com.tr) 
+- 🧑‍💻 [Stackoverflow](https://stackoverflow.com/users/32019571/emirhan-etem)
 
 ---
 
