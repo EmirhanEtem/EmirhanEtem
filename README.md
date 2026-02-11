@@ -1,11 +1,6 @@
-<h1 align="center">Emirhan Etem Alkan</h1>
-<p align="center">
-  <b>Software Engineer • AI Systems • Cybersecurity • Backend Architecture</b>
-</p>
+# Emirhan Etem Alkan
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EmirhanEtem&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+**Software Engineer • AI Systems • Cybersecurity • Backend Architecture**
 
 ---
 
@@ -13,70 +8,55 @@
 
 Computer Science student building scalable systems, intelligent applications, and security-aware software.
 
-- 🧠 Focused on **Artificial Intelligence & LLM Systems**
-- ⚙️ Building **Backend Architectures & Automation**
-- 🔐 Interested in **Cybersecurity & CTFs**
-- 📱 Developing modern apps with **Jetpack Compose**
-- 🎯 Goal: Becoming an elite **AI / Software Engineer**
+- 🧠 Focused on Artificial Intelligence & LLM Systems
+- ⚙️ Backend architecture & automation systems
+- 🔐 Cybersecurity & CTF enthusiast
+- 📱 Android development with Jetpack Compose
+- 🎯 Goal: Becoming an elite AI / Software Engineer
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs,sql" />
-</p>
+![Languages](https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs,sql)
 
 ### ⚙️ Backend & Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,sqlite,postgres,docker" />
-</p>
+![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,postgres,docker)
 
 ### 🤖 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
+![AI](https://skillicons.dev/icons?i=pytorch,tensorflow)
 
-- Hugging Face Models  
-- RAG Systems  
-- LLM API Integration  
-- Stable Diffusion Integration  
+LLM Integration • RAG Systems • Hugging Face • Stable Diffusion
 
-### 🔐 Security & Research
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
+### 🔐 Security
+![Security](https://skillicons.dev/icons?i=linux)
 
-- Kali Linux  
-- Metasploit  
-- Hashcat  
-- CTF Challenges  
+Kali Linux • Metasploit • Hashcat • CTF Challenges
 
 ---
 
 ## 📌 Featured Projects
 
 ### ♟️ Piyonist AI Chess Coach
-AI-powered chess assistant with backend move validation and real-time AI responses.
+AI-powered chess assistant with backend communication and real-time AI move handling.
 
 ### 🎵 AI Spotify Playlist Generator
-Clustering-based personalized playlist generation system.
+Data-driven playlist generation using clustering and preference modeling.
 
-### 🤖 Advanced Discord Bot Infrastructure
-Scalable modular bot system with AI integrations, automation, and voice features.
+### 🤖 Advanced Discord Bot Systems
+Scalable modular bot infrastructure with AI responses, automation modules, and API integrations.
 
 ### 📱 WakeMood Planner
-Jetpack Compose Android application with modern architecture.
+Jetpack Compose-based Android application built with modern architecture principles.
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  ![Emirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmirhanEtem&show_icons=true&theme=radical)
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhanEtem&layout=compact&theme=tokyonight"/>
-</p>
+![Emirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmirhanEtem&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhanEtem&layout=compact&theme=radical)
 
 ---
 
@@ -84,7 +64,7 @@ Jetpack Compose Android application with modern architecture.
 
 - Clean & modular architecture  
 - Security-first mindset  
-- Performance-oriented development  
+- Performance-aware development  
 - Scalable system design  
 - Automation over repetition  
 
@@ -92,11 +72,9 @@ Jetpack Compose Android application with modern architecture.
 
 ## 📫 Connect With Me
 
-- 💼 MyWebsite: https://emirhanetem.com.tr/  
+- 💼 LinkedIn: https://linkedin.com/in/emirhanetemalkan  
 - 🧑‍💻 GitHub: https://github.com/EmirhanEtem  
 
 ---
 
-<p align="center">
-  <i>Build systems. Break limits. Optimize relentlessly.</i>
-</p>
+> Build systems. Break limits. Optimize relentlessly.
