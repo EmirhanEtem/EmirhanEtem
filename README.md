@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## 🗨️ About Me
 
 Computer Science student building scalable systems, intelligent applications, and security-aware software.
 
