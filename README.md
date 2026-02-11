@@ -70,7 +70,7 @@ Jetpack Compose-based Android application built with modern architecture princip
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/emirhanetemalkan  
+- 💼 MyWebsite: https://emirhanetem.com.tr
 - 🧑‍💻 GitHub: https://github.com/EmirhanEtem  
 
 ---
