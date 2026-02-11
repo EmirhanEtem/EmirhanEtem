@@ -54,12 +54,7 @@ Jetpack Compose-based Android application built with modern architecture princip
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EmirhanEtem&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=EmirhanEtem&theme=radical)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmirhanEtem&layout=compact&theme=radical)
-
 
 ---
 
