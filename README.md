@@ -1,168 +1,102 @@
-```
 <h1 align="center">Emirhan Etem Alkan</h1>
-<h3 align="center">Software Engineer • AI Systems • Cybersecurity • Backend Architecture</h3>
+<p align="center">
+  <b>Software Engineer • AI Systems • Cybersecurity • Backend Architecture</b>
+</p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=111111&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## About
+## 🚀 About Me
 
-Computer Science student focused on building scalable systems, intelligent applications, and security-aware software.
+Computer Science student building scalable systems, intelligent applications, and security-aware software.
 
-I work at the intersection of:
-
-- Artificial Intelligence
-- Backend Engineering
-- Automation Systems
-- Cybersecurity
-- Real-time Applications
-
-My goal is simple:  
-**Engineer high-performance systems that solve real problems.**
+- 🧠 Focused on **Artificial Intelligence & LLM Systems**
+- ⚙️ Building **Backend Architectures & Automation**
+- 🔐 Interested in **Cybersecurity & CTFs**
+- 📱 Developing modern apps with **Jetpack Compose**
+- 🎯 Goal: Becoming an elite **AI / Software Engineer**
 
 ---
 
-## Current Focus
+## 🛠 Tech Stack
 
-- AI-powered applications (LLM integration, RAG systems)
-- Modular Discord bot architectures
-- Android development (Jetpack Compose)
-- Intelligent automation tools
-- System-level experimentation
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs,sql" />
+</p>
+
+### ⚙️ Backend & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,sqlite,postgres,docker" />
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+- Hugging Face Models  
+- RAG Systems  
+- LLM API Integration  
+- Stable Diffusion Integration  
+
+### 🔐 Security & Research
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+- Kali Linux  
+- Metasploit  
+- Hashcat  
+- CTF Challenges  
 
 ---
 
-## Selected Projects
+## 📌 Featured Projects
 
 ### ♟️ Piyonist AI Chess Coach
-AI-integrated chess assistant with backend communication, move validation, and real-time AI response handling.
+AI-powered chess assistant with backend move validation and real-time AI responses.
 
 ### 🎵 AI Spotify Playlist Generator
-Data-driven playlist generation using clustering and preference modeling.
+Clustering-based personalized playlist generation system.
 
-### 🤖 Advanced Discord Bot Systems
-Scalable bot infrastructure with AI responses, music systems, automation modules, and API integrations.
+### 🤖 Advanced Discord Bot Infrastructure
+Scalable modular bot system with AI integrations, automation, and voice features.
 
 ### 📱 WakeMood Planner
-Jetpack Compose-based Android application with modern architecture principles.
+Jetpack Compose Android application with modern architecture.
 
 ---
 
-## Technical Stack
-
-### Languages
-```
-
-Python
-JavaScript
-TypeScript
-Kotlin
-Java
-SQL
-C#
-
-```
-
-### Backend & Systems
-```
-
-Node.js
-Express
-Flask
-REST APIs
-WebSockets
-Modular Architecture
-API Integrations
-
-```
-
-### AI & Machine Learning
-```
-
-Hugging Face Models
-Stable Diffusion Integration
-Prompt Engineering
-RAG Systems
-LLM API Integration
-
-```
-
-### Security & Research
-```
-
-Kali Linux
-Metasploit
-Hashcat
-CTF Challenges
-Vulnerability Research
-
-```
-
-### Embedded & Automation
-```
-
-ESP32
-BLE HID
-System Automation
-PyAutoGUI
-
-```
-
----
-
-## Engineering Principles
-
-- Clean, modular architecture
-- Security-first mindset
-- Performance-aware development
-- Scalable system design
-- Automation over repetition
-
----
-
-## GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" height="165"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## Philosophy
+## 🧠 Engineering Principles
 
-> Build systems.  
-> Break limits.  
-> Optimize relentlessly.
+- Clean & modular architecture  
+- Security-first mindset  
+- Performance-oriented development  
+- Scalable system design  
+- Automation over repetition  
 
 ---
 
-## Contact
+## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
-GitHub: https://github.com/YOUR_USERNAME  
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME  
 
 ---
 
 <p align="center">
-  <sub>Always building. Always learning.</sub>
+  <i>Build systems. Break limits. Optimize relentlessly.</i>
 </p>
-```
-
----
-
----
-
-İstersen bir seviye daha yukarı çıkarabiliriz:
-
-* 🧠 FAANG-style ultra minimal siyah-beyaz versiyon
-* 📊 Data-driven grafik + streak + contribution design
-* 🧩 Tam premium animasyonlu badge versiyonu
-* 🏆 Recruiter-focused CV-style version
-
-Bir üst level ister misin?
