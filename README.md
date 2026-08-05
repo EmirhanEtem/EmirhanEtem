@@ -84,16 +84,6 @@ Jetpack Compose Android application built on modern architecture principles.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=EmirhanEtem&theme=radical&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmirhanEtem&show_icons=true&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## Engineering Principles
 
