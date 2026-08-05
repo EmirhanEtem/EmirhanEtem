@@ -1,80 +1,114 @@
+<div align="center">
+
 # Emirhan Etem Alkan
 
-**Software Engineer • AI Systems • Cybersecurity • Backend Architecture**
+### Software Engineer · AI Systems · Cybersecurity · Backend Architecture
+
+*Building scalable systems, intelligent applications, and security-aware software.*
+
+[![Website](https://img.shields.io/badge/Website-emirhanetem.com.tr-000000?style=for-the-badge&logo=todoist&logoColor=white)](https://emirhanetem.com.tr)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32019571/emirhan-etem)
+
+</div>
 
 ---
 
-## 🗨️ About Me
+## About Me
 
-Computer Science student building scalable systems, intelligent applications, and security-aware software.
+Computer Science student focused on artificial intelligence, backend engineering, and security-driven software design. I care about writing clean, scalable systems and understanding how things break as much as how they're built.
 
-- 🧠 Focused on Artificial Intelligence & LLM Systems
-- ⚙️ Backend architecture & automation systems
-- 🔐 Cybersecurity & CTF enthusiast
-- 📱 Android development with Jetpack Compose
-- 🎯 Goal: Becoming an elite AI / Software Engineer
+- Artificial Intelligence & LLM Systems
+- Backend architecture & automation
+- Cybersecurity & CTF challenges
+- Android development with Jetpack Compose
+- **Goal:** becoming an elite AI / Software Engineer
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 💻 Languages
-![Languages](https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs,mysql,cpp,qt,react,wordpress,postgres,opencv,electron,bots,androidstudio,arduino)
+**Languages**
 
-### ⚙️ Backend & Systems
+![Languages](https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cs,mysql,cpp,qt,react,wordpress,postgres,opencv,electron,androidstudio,arduino)
+
+**Backend & Systems**
+
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,postgres,docker)
 
-### 🤖 AI / ML
+**AI / Machine Learning**
+
 ![AI](https://skillicons.dev/icons?i=pytorch,tensorflow)
 
-LLM Integration • RAG Systems • Hugging Face • Stable Diffusion
+`LLM Integration` · `RAG Systems` · `Hugging Face` · `Stable Diffusion`
 
-### 🔐 Security
+**Security**
+
 ![Security](https://skillicons.dev/icons?i=linux)
 
-Kali Linux • Metasploit • Hashcat • CTF Challenges
+`Kali Linux` · `Metasploit` · `Hashcat` · `CTF Challenges`
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### ♟️ Piyonist AI Chess Coach
-AI-powered chess assistant with backend communication and real-time AI move handling.
+<table>
+<tr>
+<td width="50%">
+
+### ♟️ Piyonist — AI Chess Coach
+AI-powered chess assistant with backend communication and real-time move analysis.
+
+</td>
+<td width="50%">
 
 ### 🎵 AI Spotify Playlist Generator
-Data-driven playlist generation using clustering and preference modeling.
+Data-driven playlist generation using clustering and user preference modeling.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🤖 Advanced Discord Bot Systems
-Scalable modular bot infrastructure with AI responses, automation modules, and API integrations.
+Modular, scalable bot infrastructure with AI responses, automation, and API integrations.
+
+</td>
+<td width="50%">
 
 ### 📱 WakeMood Planner
-Jetpack Compose-based Android application built with modern architecture principles.
+Jetpack Compose Android application built on modern architecture principles.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=EmirhanEtem&theme=radical)
+<div align="center">
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=EmirhanEtem&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmirhanEtem&show_icons=true&theme=radical&hide_border=true)
 
-## 🧠 Engineering Principles
-
-- Clean & modular architecture  
-- Security-first mindset  
-- Performance-aware development  
-- Scalable system design  
-- Automation over repetition  
+</div>
 
 ---
 
-## 📫 Connect With Me
+## Engineering Principles
 
-- 💼 [MyWebsite](https://emirhanetem.com.tr) 
-- 🧑‍💻 [Stackoverflow](https://stackoverflow.com/users/32019571/emirhan-etem)
+- Clean & modular architecture
+- Security-first mindset
+- Performance-aware development
+- Scalable system design
+- Automation over repetition
 
 ---
 
-> Build systems. Break limits. Optimize relentlessly.
----
+<div align="center">
+
+*Build systems. Break limits. Optimize relentlessly.*
+
 ![snake gif](https://github.com/EmirhanEtem/EmirhanEtem/blob/output/github-snake-dark.svg)
+
+</div>
