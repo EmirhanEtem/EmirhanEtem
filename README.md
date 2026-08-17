@@ -7,7 +7,7 @@
 *Building scalable systems, intelligent applications, and security-aware software.*
 
 [![Website](https://img.shields.io/badge/Website-emirhanetem.com.tr-000000?style=for-the-badge&logo=todoist&logoColor=white)](https://emirhanetem.com.tr)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32019571/emirhan-etem)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32888391/emirhan-etem-alkan)
 
 </div>
 
